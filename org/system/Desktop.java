@@ -13,8 +13,6 @@ public class Desktop extends Computer {
 	public void desktopSize(){
 		System.out.println("I am a 14'' DeskTop");
 
-
-
 	}
 
 }
